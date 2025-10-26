@@ -1,1 +1,2 @@
-Initial commit for test.txt
+Фігури: коло, трикутник, прямокутник, квадрат.
+Shapes: ellipse, triangle, rectangle, square.
